@@ -2437,6 +2437,10 @@ input, select, textarea {
 				margin: 0;
 			}
 
+		.container.about-text > #p {
+			text-align: left;
+		}
+
 		/* Copyright */
 
 			#copyright {
